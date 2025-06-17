@@ -45,4 +45,8 @@
   .recipe-name {
     font-size: 3rem;
   }
+
+  .quick-notes ul {
+    display: block;
+  }
 }
