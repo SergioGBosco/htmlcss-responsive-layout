@@ -66,4 +66,8 @@
   .quick-notes ul li {
     width: 100%;
   }
+
+  .social-networks .label {
+    display: inline-block;
+  }
 }
