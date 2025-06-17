@@ -70,4 +70,10 @@
   .social-networks .label {
     display: inline-block;
   }
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+  }
 }
