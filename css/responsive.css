@@ -39,3 +39,10 @@
     margin-right: 10px;
   }
 }
+
+/* Soluzione qui */
+@media all and (min-width: 992px) {
+  .recipe-name {
+    font-size: 3rem;
+  }
+}
