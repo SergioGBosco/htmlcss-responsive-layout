@@ -29,4 +29,8 @@
   .btn {
     width: 20%;
   }
+
+  .ads {
+    display: block;
+  }
 }
