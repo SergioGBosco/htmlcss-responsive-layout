@@ -49,4 +49,21 @@
   .quick-notes ul {
     display: block;
   }
+
+
+  .recipe-card {
+    display: flex;
+  }
+
+  .recipe-video {
+    width: 70%;
+  }
+
+  .recipe-info {
+    width: 30%;
+  }
+
+  .quick-notes ul li {
+    width: 100%;
+  }
 }
