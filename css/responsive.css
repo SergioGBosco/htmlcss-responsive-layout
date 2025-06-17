@@ -25,4 +25,8 @@
   .quick-notes ul li {
     width: calc(100% / 3);
   }
+
+  .btn {
+    width: 20%;
+  }
 }
